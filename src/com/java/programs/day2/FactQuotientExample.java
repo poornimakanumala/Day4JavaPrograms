@@ -1,4 +1,4 @@
-package com.java.programs;
+package com.java.programs.day2;
 
 import java.util.Scanner;
 

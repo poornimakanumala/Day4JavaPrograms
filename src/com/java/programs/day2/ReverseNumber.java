@@ -1,4 +1,4 @@
-package com.java.programs;
+package com.java.programs.day2;
 
 public class ReverseNumber {
     public static void main(String args[]) {
